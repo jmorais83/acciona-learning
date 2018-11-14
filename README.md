@@ -13,14 +13,11 @@ Recetas propuestas
 * [Guisos](Guisos/)
 	- El Arroz Caldoso
 	- Gachas Manchegas
-	- Guiso
+	- Guiso (falta completar)
 	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño tradicional
-	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
+	- Estofado de Ternera 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
