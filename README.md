@@ -4,6 +4,12 @@ Repositorio de recetas con fines didácticos
 Aquí hay recetas de
 ===================
 
+* [Carne & aves](Carne & aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Lentejas
+	- Morteruelo
+
 * [Ensaladas](Ensaladas/)
 
 	- Ensalada Caprese
@@ -26,11 +32,8 @@ Aquí hay recetas de
 	- guiso1
 	- Lentejas
 
-* [Carne & aves](Carne & aves/)
-	- Pollo a la cerveza
-	- Pollo con verdura
-	- Lentejas
-	- Morteruelo
+* [Pasta](Pasta/)
+	- Spaghetti carbonara
 
 * [Postres](Postres/)
 	- Macedonia
@@ -44,10 +47,6 @@ Aquí hay recetas de
 	- tarta de fresa
 	- postre1
 
-* [Verduras](Verduras/)
-	- Ratatouille
-	- Patatas Cocidas
-
 * [Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana 
@@ -57,6 +56,10 @@ Aquí hay recetas de
 	- Tuning
 	- Espinacas
 	- Atun
+
+* [Verduras](Verduras/)
+	- Ratatouille
+	- Patatas Cocidas
 
 Para colaborar
 --------------
