@@ -8,9 +8,12 @@ Aquí hay recetas de
 
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
+	- Ensalada de lechuga
+	- Ensalada sin sal
 
 * [Guisos](Guisos/)
 	- Recetas de Git
+	- Paella china
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
@@ -24,14 +27,15 @@ Aquí hay recetas de
 	- Lentejas
 
 * [Carne & aves](Carne & aves/)
-	- Pollo a la cerveza
-	- Morteruelo
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
+	- Pollo a la cerveza con vinagre
+	- Morteruelo de Jaen
+	- Pollo a la cerveza negra
+	- Pollo con pisto y verduras
+	- Pollo con verduras y huevo
 
 * [Postres](Postres/)
 	- Macedonia
+	- Arroz con leche
 	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
@@ -41,6 +45,8 @@ Aquí hay recetas de
   	- Flan de huevo
 	- tarta de fresa
 	- postre1
+	- postre2
+	- postre3
 
 * [Verduras](Verduras/)
 	- Ratatouille
@@ -54,7 +60,7 @@ Aquí hay recetas de
 	- Francesa
 	- Chorizo
 	- Tuning
-	- Espinacas
+	- Espinacas con jamon
 	- Atun
 	- Queso
 
