@@ -23,11 +23,17 @@ Recetas propuestas
 	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño tradicional
-	- Estofado de Ternera 
+	- Recetas de Git
+	- Estofado de Ternera
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
+* [Guisos](Guisos/Pollo)
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
+
 
 * [Pasta](Pasta/)
 	- Spaghetti carbonara
