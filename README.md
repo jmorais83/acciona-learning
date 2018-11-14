@@ -1,4 +1,5 @@
-﻿# learning-git
+﻿learning-git
+=======================
 Repositorio de recetas con fines didácticos
 
 Recetas propuestas
@@ -10,8 +11,7 @@ Recetas propuestas
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- Recetas de Git
-	- Arroz Caldoso
+	- El Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
 	- Caldereta de Pescado
@@ -57,10 +57,4 @@ Recetas propuestas
 	- Tuning
 	- Espinacas
 	- Atun
-
-Para colaborar
---------------
-
-* Incluimos nuevas recetas
-* Recuerda poner las recetas en la carpeta adecuada.
-* Todas las recetas tienen foto!
+	- Tortilla original
