@@ -47,14 +47,15 @@ Aquí hay recetas de
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
+	- San jacobo
 
 * [Tortillas](Tortillas/)
+        - final
 	- Patatas
 	- De Patatas Vegana 
 	- Patatas cocidas
 	- Francesa
 	- Chorizo
-	- Tuning
 	- Espinacas
 	- Atun
 
