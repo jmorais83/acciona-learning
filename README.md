@@ -1,66 +1,70 @@
 ﻿# learning-git
 Repositorio de recetas con fines didácticos
 
-Recetas propuestas
-==================
+Aquí hay recetas de
+===================
+
+* [Bebidas](Bebidas/)
+	- Cerveza artesana
+
+* [Carne & aves](Carne y aves/)
+	- Pollo a la cerveza con setas y alcachofas
+	- Pollo con verdura
+	- Morteruelo
 
 * [Ensaladas](Ensaladas/)
-
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- Recetas de Git
 	- Arroz Caldoso
-	- Gachas Manchegas
-	- Guiso
 	- Caldereta de Pescado
 	- Carrilleras al vino
-	- Cocido madrileño tradicional
+	- Cocido madrileño
 	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
-	- Guiso de carne con patatas  
-	- Patatas fritas horneadas
+	- Gachas Manchegas
+	- Guiso de carne con patatas
+	- Guiso
 	- guiso1
 	- Lentejas
-
-* [Carne & aves](Carne & aves/)
-	- Pollo a la cerveza
-	- Pollo con verdura
-	- Lentejas
-	- Morteruelo
+	- Patatas fritas horneadas
+	- Pollo con pisto
+	- Tallarines Bami Goreng
 
 * [Postres](Postres/)
-	- Macedonia
-	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
+	- Flan de huevo
 	- Higos con queso de cabra gratinados
+	- Macedonia
 	- Mousse de limón con merengue
+	- Natillas
 	- Tarta de manzana
-  	- Flan de huevo
-	- tarta de fresa
-	- postre1
+	- Tarta de fresa
+
+* [Tortillas](Tortillas/)
+	- con chorizo
+	- de Espinacas
+	- de patatas 1
+	- de patatas 2
+	- de patatas 3
+	- de patatas 4
+	- de patatas 5
+	- de patatas 6
+	- de patatas con atun
+	- de patatas con jamón
+	- de Patatas vegana
+	- francesa
+	- para 1 persona
 
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
 
-* [Tortillas](Tortillas/)
-	- Patatas
-	- De Patatas Vegana 
-	- Patatas cocidas
-	- Francesa
-	- Chorizo
-	- Tuning
-	- Espinacas
-	- Atun
-
 Para colaborar
 --------------
 
-* Incluimos nuevas recetas
-* Recuerda poner las recetas en la carpeta adecuada.
-* Todas las recetas tienen foto!
+Incluimos nuevas recetas
+
+Recuerda poner las recetas en la carpeta adecuada.
+Todas las recetas tienen foto!
