@@ -17,14 +17,18 @@ Aquí hay recetas de
 	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño
-	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
+	- Estofado de Ternera	 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
+	- [Pollo](Guisos/Pollo/) 
+		- Pollo a la cerveza
+		- Pollo con pisto
+		- Pollo con verduras
+	- [Ternera](Guisos/Ternera/)
+		- CARRILLERAS_AL_VINO
+		- guisoDeCarneConPatatas
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
@@ -49,14 +53,12 @@ Aquí hay recetas de
 	- Patatas Cocidas
 
 * [Tortillas](Tortillas/)
-	- Patatas
-	- De Patatas Vegana 
-	- Patatas cocidas
 	- Francesa
 	- Chorizo
 	- Tuning
 	- Espinacas
 	- Atun
+ 	- [TortillaPatata] (Tortillas/TortillaPatata/)
 
 Para colaborar
 --------------
