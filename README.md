@@ -7,7 +7,7 @@ Aquí hay recetas de
 * [Bebidas](Bebidas/)
 	- Cerveza artesana
 
-* [Carne y aves](Carne & aves/)
+* [Carne y aves](Carne y aves/)
 	- Pollo a la cerveza con setas y alcachofas
 	- Pollo con verdura
 	- Morteruelo
