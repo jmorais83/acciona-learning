@@ -11,7 +11,6 @@ Aquí hay recetas de
 
 * [Guisos](Guisos/)
 	- Recetas de Git
-	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
 	- Caldereta de Pescado
