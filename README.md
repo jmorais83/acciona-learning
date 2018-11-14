@@ -19,6 +19,7 @@ Aquí hay recetas de
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
+
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso (falta completar)
@@ -39,6 +40,7 @@ Aquí hay recetas de
 	- Spaghetti carbonara
 
 * [Postres](Postres/)
+
 	- Brownie
 	- Buñuelos de manzanas
 	- Flan de huevo
@@ -68,6 +70,15 @@ Aquí hay recetas de
 	- Ratatouille
 	- Patatas Cocidas
 
+ 
+	- Patatas cocidas
+	- Francesa
+	- Chorizo
+	- Tuning
+	- Espinacas
+	- Atun
+	- Tortilla original
+
 Para colaborar
 --------------
 
@@ -75,3 +86,4 @@ Incluimos nuevas recetas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
+
