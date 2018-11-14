@@ -1,8 +1,9 @@
-﻿# learning-git
+﻿learning-git
+=======================
 Repositorio de recetas con fines didácticos
 
-Aquí hay recetas de
-===================
+Recetas propuestas
+==================
 
 * [Ensaladas](Ensaladas/)
 
@@ -10,16 +11,13 @@ Aquí hay recetas de
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- Recetas de Git
+
 	- Gachas Manchegas
-	- Guiso
+	- Guiso (falta completar)
 	- Caldereta de Pescado
 	- Carrilleras al vino
-	- Cocido madrileño
-	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
+	- Cocido madrileño tradicional
+	- Estofado de Ternera 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
@@ -57,11 +55,4 @@ Aquí hay recetas de
 	- Chorizo
 	- Espinacas
 	- Atun
-
-Para colaborar
---------------
-
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
+	- Tortilla original
