@@ -1,4 +1,8 @@
-MACEDONIA DE MANZANAS
+Macedonia de manzanas
 ---------------------
-Cortar fruta en trozos
 
+Ingredientes:
+- Manzanas
+
+Preparación:
+- Cortar las manzanas en trozos
