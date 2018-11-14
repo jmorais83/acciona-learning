@@ -8,12 +8,9 @@ Aquí hay recetas de
 
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
-	- Ensalada de lechuga
-	- Ensalada sin sal
 
 * [Guisos](Guisos/)
 	- Recetas de Git
-	- Paella china
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
@@ -21,21 +18,22 @@ Aquí hay recetas de
 	- Carrilleras al vino
 	- Cocido madrileño
 	- Estofado de Ternera
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
 
 * [Carne & aves](Carne & aves/)
-	- Pollo a la cerveza con vinagre
-	- Morteruelo de Jaen
-	- Pollo a la cerveza negra
-	- Pollo con pisto y verduras
-	- Pollo con verduras y huevo
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Lentejas
+	- Morteruelo
 
 * [Postres](Postres/)
 	- Macedonia
-	- Arroz con leche
 	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
@@ -45,13 +43,10 @@ Aquí hay recetas de
   	- Flan de huevo
 	- tarta de fresa
 	- postre1
-	- postre2
-	- postre3
 
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
-	- Pollo con verdura
 
 * [Tortillas](Tortillas/)
 	- Patatas
@@ -60,9 +55,8 @@ Aquí hay recetas de
 	- Francesa
 	- Chorizo
 	- Tuning
-	- Espinacas con jamon
+	- Espinacas
 	- Atun
-	- Queso
 
 Para colaborar
 --------------
