@@ -2,8 +2,11 @@
 =======================
 Repositorio de recetas con fines didácticos
 
-Recetas propuestas
-==================
+Aquí hay recetas de
+===================
+
+* [Bebidas](Bebidas/)
+	- Cerveza artesana
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
@@ -12,41 +15,63 @@ Recetas propuestas
 	- Morteruelo
 
 * [Ensaladas](Ensaladas/)
-
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-
+	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso (falta completar)
 	- Caldereta de Pescado
 	- Carrilleras al vino
-	- Cocido madrileño tradicional
-	- Recetas de Git
+	- Cocido madrileño
 	- Estofado de Ternera
-	- Guiso de carne con patatas  
-	- Patatas fritas horneadas
+	- Gachas Manchegas
+	- Guiso de carne con patatas
+	- Guiso
 	- guiso1
 	- Lentejas
-* [Guisos](Guisos/Pollo)
-	- Pollo a la cerveza
+	- Patatas fritas horneadas
 	- Pollo con pisto
-	- Pollo con verduras 
-
+	- Tallarines Bami Goreng
 
 * [Pasta](Pasta/)
 	- Spaghetti carbonara
 
 * [Postres](Postres/)
-	- Macedonia
-	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
+	- Flan de huevo
 	- Higos con queso de cabra gratinados
+	- Macedonia
 	- Mousse de limón con merengue
+	- Natillas
 	- Tarta de manzana
-  	- Flan de huevo
-	- tarta de fresa
-	- postre1
+	- Tarta de fresa
 
+* [Tortillas](Tortillas/)
+	- con chorizo
+	- de Espinacas
+	- de patatas 1
+	- de patatas 2
+	- de patatas 3
+	- de patatas 4
+	- de patatas 5
+	- de patatas 6
+	- de patatas con atun
+	- de patatas con jamón
+	- de Patatas vegana
+	- francesa
+	- para 1 persona
+
+* [Verduras](Verduras/)
+	- Ratatouille
+	- Patatas Cocidas
+
+Para colaborar
+--------------
+
+Incluimos nuevas recetas
+
+Recuerda poner las recetas en la carpeta adecuada.
+Todas las recetas tienen foto!
