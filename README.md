@@ -17,7 +17,7 @@ Recetas propuestas
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- El Arroz Caldoso
+
 	- Gachas Manchegas
 	- Guiso (falta completar)
 	- Caldereta de Pescado
@@ -50,26 +50,3 @@ Recetas propuestas
 	- tarta de fresa
 	- postre1
 
-* [Tortillas](Tortillas/)
-	- Patatas
-	- De Patatas Vegana 
-	- Patatas cocidas
-	- Francesa
-	- Chorizo
-	- Tuning
-	- Espinacas
-	- Atun
-
-* [Verduras](Verduras/)
-	- Ratatouille
-	- Patatas Cocidas
-
-Para colaborar
---------------
-
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
-=======
-	- Tortilla original
