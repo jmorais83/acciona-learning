@@ -5,6 +5,12 @@ Repositorio de recetas con fines didácticos
 Recetas propuestas
 ==================
 
+* [Carne & aves](Carne & aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Lentejas
+	- Morteruelo
+
 * [Ensaladas](Ensaladas/)
 
 	- Ensalada Caprese
@@ -23,11 +29,8 @@ Recetas propuestas
 	- guiso1
 	- Lentejas
 
-* [Carne & aves](Carne & aves/)
-	- Pollo a la cerveza
-	- Pollo con verdura
-	- Lentejas
-	- Morteruelo
+* [Pasta](Pasta/)
+	- Spaghetti carbonara
 
 * [Postres](Postres/)
 	- Macedonia
@@ -41,18 +44,3 @@ Recetas propuestas
 	- tarta de fresa
 	- postre1
 
-* [Verduras](Verduras/)
-	- Ratatouille
-	- Patatas Cocidas
-	- San jacobo
-
-* [Tortillas](Tortillas/)
-        - final
-	- Patatas
-	- De Patatas Vegana 
-	- Patatas cocidas
-	- Francesa
-	- Chorizo
-	- Espinacas
-	- Atun
-	- Tortilla original
