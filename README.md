@@ -1,8 +1,9 @@
-﻿# learning-git
+﻿learning-git
+=======================
 Repositorio de recetas con fines didácticos
 
-Aquí hay recetas de
-===================
+Recetas propuestas
+==================
 
 * [Ensaladas](Ensaladas/)
 
@@ -10,20 +11,28 @@ Aquí hay recetas de
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- Recetas de Git
-	- Arroz Caldoso
-	- Gachas Manchegas
+	- El Arroz Caldoso
+	- Brownie
+	- Buñuelos de manzanas
+	- Higos con queso de cabra gratinados
+	- Mousse de limón con merengue
+	- Tarta de manzana
+  	- Flan de huevo
+	- tarta de fresa
+	- postre1
+
+* [Verduras](Verduras/)
+	- Ratatouille
+	- Patatas Cocidas
+
+* [Tortillas](Tortillas/)
+	- Patatas
+	- De Patatas Vegana 
+>>>>>>> 3cce19eae25302ac80eea0e3462544678e8fc69e
 	- Patatas cocidas
 	- Francesa
 	- Chorizo
 	- Tuning
 	- Espinacas
 	- Atun
-
-Para colaborar
---------------
-
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
+	- Tortilla original
