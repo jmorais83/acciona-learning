@@ -10,21 +10,23 @@ Aquí hay recetas de
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- Recetas de Git
 	- Arroz Caldoso
-	- Gachas Manchegas
-	- Guiso
+	- Recetas de Git
 	- Caldereta de Pescado
 	- Carrilleras al vino
+	- Gachas Manchegas
+	- Guiso
 	- Cocido madrileño
 	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
+* [Guisos](Guisos/Pollo)
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
+
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
