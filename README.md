@@ -5,6 +5,12 @@ Repositorio de recetas con fines didácticos
 Recetas propuestas
 ==================
 
+* [Carne & aves](Carne & aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Lentejas
+	- Morteruelo
+
 * [Ensaladas](Ensaladas/)
 
 	- Ensalada Caprese
@@ -21,12 +27,18 @@ Recetas propuestas
 	- Estofado de Ternera	 
 =======
 	- Cocido madrileño tradicional
+<<<<<<< HEAD
 	- Estofado de Ternera 
+>>>>>>> upstream/master
+=======
+	- Recetas de Git
+	- Estofado de Ternera
 >>>>>>> upstream/master
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
+<<<<<<< HEAD
 	- [Pollo](Guisos/Pollo/) 
 		- Pollo a la cerveza
 		- Pollo con pisto
@@ -36,10 +48,16 @@ Recetas propuestas
 		- guisoDeCarneConPatatas
 
 * [Carne & aves](Carne & aves/)
+=======
+* [Guisos](Guisos/Pollo)
+>>>>>>> upstream/master
 	- Pollo a la cerveza
-	- Pollo con verdura
-	- Lentejas
-	- Morteruelo
+	- Pollo con pisto
+	- Pollo con verduras 
+
+
+* [Pasta](Pasta/)
+	- Spaghetti carbonara
 
 * [Postres](Postres/)
 	- Macedonia
@@ -53,10 +71,6 @@ Recetas propuestas
 	- tarta de fresa
 	- postre1
 
-* [Verduras](Verduras/)
-	- Ratatouille
-	- Patatas Cocidas
-
 * [Tortillas](Tortillas/)
 	- Francesa
 	- Chorizo
@@ -64,7 +78,14 @@ Recetas propuestas
 	- Espinacas
 	- Atun
 <<<<<<< HEAD
+<<<<<<< HEAD
  	- [TortillaPatata] (Tortillas/TortillaPatata/)
+=======
+
+* [Verduras](Verduras/)
+	- Ratatouille
+	- Patatas Cocidas
+>>>>>>> upstream/master
 
 Para colaborar
 --------------
@@ -75,4 +96,7 @@ Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
 =======
 	- Tortilla original
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
