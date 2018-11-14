@@ -1,4 +1,5 @@
-﻿# learning-git
+﻿learning-git
+=======================
 Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de
@@ -7,9 +8,10 @@ Aquí hay recetas de
 * [Bebidas](Bebidas/)
 	- Cerveza artesana
 
-* [Carne y aves](Carne%20y%20aves/)
-	- Pollo a la cerveza con setas y alcachofas
+* [Carne & aves](Carne & aves/)
+	- Pollo a la cerveza
 	- Pollo con verdura
+	- Lentejas
 	- Morteruelo
 
 * [Ensaladas](Ensaladas/)
@@ -30,6 +32,9 @@ Aquí hay recetas de
 	- Patatas fritas horneadas
 	- Pollo con pisto
 	- Tallarines Bami Goreng
+
+* [Pasta](Pasta/)
+	- Spaghetti carbonara
 
 * [Postres](Postres/)
 	- Brownie
