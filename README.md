@@ -18,9 +18,6 @@ Aquí hay recetas de
 	- Carrilleras al vino
 	- Cocido madrileño
 	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
@@ -28,9 +25,10 @@ Aquí hay recetas de
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
-	- Pollo con verdura
-	- Lentejas
 	- Morteruelo
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
 
 * [Postres](Postres/)
 	- Macedonia
@@ -47,6 +45,7 @@ Aquí hay recetas de
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
+	- Pollo con verdura
 
 * [Tortillas](Tortillas/)
 	- Patatas
@@ -57,6 +56,7 @@ Aquí hay recetas de
 	- Tuning
 	- Espinacas
 	- Atun
+	- Queso
 
 Para colaborar
 --------------
