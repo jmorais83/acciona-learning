@@ -20,6 +20,8 @@ Aquí hay recetas de
 
 * [Guisos](Guisos/)
 	- Arroz Caldoso
+	- Gachas Manchegas
+	- Guiso (falta completar)
 	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño
