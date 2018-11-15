@@ -17,7 +17,8 @@ Recetas propuestas
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
-	- El Arroz Caldoso
+
+	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso (falta completar)
 	- Caldereta de Pescado
@@ -60,8 +61,7 @@ Recetas propuestas
 	- Spaghetti carbonara
 
 * [Postres](Postres/)
-	- Macedonia
-	- Natillas
+
 	- Brownie
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
@@ -87,6 +87,15 @@ Recetas propuestas
 	- Patatas Cocidas
 >>>>>>> upstream/master
 
+ 
+	- Patatas cocidas
+	- Francesa
+	- Chorizo
+	- Tuning
+	- Espinacas
+	- Atun
+	- Tortilla original
+
 Para colaborar
 --------------
 
@@ -94,9 +103,4 @@ incluimos nuevas recetas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
-=======
-	- Tortilla original
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
->>>>>>> upstream/master
+
